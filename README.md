@@ -1,8 +1,8 @@
-# psy6002-tp2
+# Projet de session 2
 
 ## path analysis
 
-## Jupyter Notebook 
+#### Jupyter Notebook 
 
 - Assumptions
 - Path analysis models with Semopy
