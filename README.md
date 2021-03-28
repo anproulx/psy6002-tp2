@@ -2,8 +2,8 @@
 
 ## path analysis
 
-#### Jupyter Notebook 
+#### Jupyter Notebooks 
 
 - Assumptions
 - Path analysis models with Semopy
-- 
+
