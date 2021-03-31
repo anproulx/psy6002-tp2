@@ -4,6 +4,6 @@
 
 #### Jupyter Notebooks 
 
-- Assumptions
-- Path analysis models with Semopy
+- Assumptions : PSY6002_TP2_syntaxe_Picard_Picard_Proulx_V2.ipynb
+- Path analysis models with Semopy : PSY6002_TP2_syntaxe_Picard_Picard_Proulx_V2.ipynb
 
